@@ -4,7 +4,7 @@ title: About me
 subtitle: Angela's Yoga Bio
 ---
 <img src="/assets/img/YogaPoseImage.jpg" alt="Yoga Pose"
-	title="A cute kitten" width="180" height="270" />
+	title="A cute kitten" width="180" height="270" class="center"/>
 
 I am qualified with the British School of Yoga as a Yoga Teacher, and recognised and registered with the Independent Yoga Network which I keep up to date with.
 
