@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: Yoga Bio
 ---
+![Angela Yoga Pose](/assets/img/YogaPoseImage.jpg)
 
 I am qualified with the British School of Yoga as a Yoga Teacher, and recognised and registered with the Independent Yoga Network which I keep up to date with.
 
