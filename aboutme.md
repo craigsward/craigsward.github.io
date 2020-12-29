@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Yoga Bio
+subtitle: Angela's Yoga Bio
 ---
 <img src="/assets/img/YogaPoseImage.jpg" alt="Yoga Pose"
 	title="A cute kitten" width="180" height="270" />
