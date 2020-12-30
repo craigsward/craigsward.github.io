@@ -24,3 +24,8 @@ Class Pass of one class a week over 4 weeks £20 (bundle discount)
 1:1 online £20 
 1:1 in person £30 
 
+## Booking
+
+Classes can be booked and paid for on eventbrite
+
+Or feel free to contact me with any enquiries via email
