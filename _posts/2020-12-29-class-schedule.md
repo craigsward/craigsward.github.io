@@ -1,6 +1,6 @@
 ---
 layout: post
-thumbnail-img: /assets/img/CalendarImage.jpg
+thumbnail-img: /assets/img/CalendarImage.jpeg
 title: Class Schedule
 gh-badge: [star, fork, follow]
 tags: [yoga, ashtanga, viking]
