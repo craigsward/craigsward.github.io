@@ -7,15 +7,14 @@ tags: [yoga, ashtanga, viking]
 comments: true
 subtitle: Angela's Class Schedule
 ---
-Monday: 9.30am leisure centre hatha yoga 
 
-Monday: 6.30pm Ashtanga (currently online but hoping soon be back at Corringham Village Hall) 
+Ashtanga Monday: 6.30pm at Corringham Village Hall
 
-Wednesday: 9am Chair Yoga (again online but once back to face to face it'll be at later time of 10am at Marton Village Hall)
+Chair Yoga Wednesday: 10am at Marton Village Hall
 
-Wednesday: 6.30pm Hatha (currently online but hoping soon be back at Corringham Village Hall at 6.45pm) 
+Hatha Wednesday: 6.45pm Hatha at Corringham Village Hall at 6.45pm
 
-Friday: 8am online Hatha (no change) 
+Hatha Friday: 8am online on Zoom, please contact Angela for the Zoom code
 
 
 Pricing: 
