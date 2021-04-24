@@ -27,7 +27,7 @@ Class Pass of one class a week over 4 weeks £20 (bundle discount)
 
 Classes can be booked and paid for on eventbrite
 
-<a href="https://www.eventbrite.co.uk/u/498996066625/following">Click Here to see my class schedule and book on my classes</a>
+<a href="https://www.eventbrite.co.uk/o/viking-yoga-32244940565">Click Here to see my class schedule and book on my classes</a>
 
 Or feel free to contact me with any enquiries via email
 
