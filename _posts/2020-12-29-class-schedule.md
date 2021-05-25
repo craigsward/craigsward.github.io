@@ -12,7 +12,7 @@ Ashtanga Monday: 6.30pm at Corringham Village Hall
 
 Chair Yoga Wednesday: 10am at Marton Village Hall
 
-Hatha Wed: 6.45pm Hatha at Corringham Village Hall at 6.45pm
+Hatha Wednesday: 6.45pm Hatha at Corringham Village Hall at 6.45pm
 
 Hatha Friday: 8am online on Zoom, please contact Angela for the Zoom code
 
