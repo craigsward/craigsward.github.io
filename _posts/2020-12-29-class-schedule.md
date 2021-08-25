@@ -23,6 +23,8 @@ Class Pass of one class a week over 4 weeks £20 (bundle discount)
 1:1 online £20 
 1:1 in person £30 
 
+Block Booking: You must pay the block up front and it will be for consecutive classes.  Any classes missed won't be rolled over to the following week unless it is a class cancelled by me, then you may roll it over.
+
 ## Booking
 
 Classes can be booked and paid for on eventbrite
