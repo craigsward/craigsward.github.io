@@ -11,6 +11,8 @@ subtitle: Some Feedback From My Clients
 August 2021
 <img title="August 2021" alt="" src="/assets/img/HappyClient.jpg">
 
-September 2021
-<img title="HappyClients2" alt="" src="/assets/img/HappyClients2.jpg">
-<img title="HappyClients3" alt="" src="/assets/img/HappyClients3.jpg">
+September 2021 (1)
+<img title="HappyClients2" alt="" src="/assets/img/HappyClients2.jpeg">
+
+September 2021 (2)
+<img title="HappyClients3" alt="" src="/assets/img/HappyClients3.jpeg">
