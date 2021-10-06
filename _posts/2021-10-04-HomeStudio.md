@@ -1,6 +1,6 @@
 ---
 layout: post
-thumbnail-img: /assets/img/YogaPoseImage.jpg
+thumbnail-img: /assets/img/HomeStudio.jpg
 title: Home Studio
 gh-badge: [star, fork, follow]
 tags: [yoga, ashtanga, viking]
