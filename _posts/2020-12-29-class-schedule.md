@@ -33,7 +33,7 @@ Block Booking: You must pay the block up front and it will be for consecutive cl
 
 ## Booking
 
-Classes can be booked and paid for on eventbrite
+Classes can be booked on eventbrite
 
 <a href="https://www.eventbrite.co.uk/o/viking-yoga-32244940565">Click Here to see my class schedule and book on my classes</a>
 
