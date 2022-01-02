@@ -1,7 +1,7 @@
 ---
 layout: post
 thumbnail-img: /assets/img/CalendarImage.jpeg
-title: Class Schedule
+title: Class Schedule 2022 Update
 gh-badge: [star, fork, follow]
 tags: [yoga, ashtanga, viking]
 comments: true
