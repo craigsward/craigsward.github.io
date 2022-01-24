@@ -8,22 +8,26 @@ comments: true
 subtitle: Angela's Class Schedule
 ---
 
-Monday: Yoga Wheel Class -  
+**Monday:** 
+Yoga Wheel Class -  
 9.30am-10.30am 
 £8 payg at Angela's home studio based in Lea. This is a unique style of yoga using a circular prop which can be used for stretching, core work and back bending, please email yogaovyboyle@gmail.com to book your place, please note spaces are limited so there may be a waiting list. 
 
-Monday: Chair based Yoga at Marton Village Hall - 11.30-12.30 £5.50 payg senior discount.
+**Monday Chair based Yoga:** at Marton Village Hall - 11.30-12.30 £5.50 payg senior discount.
 
-Ashtanga Monday: 6.30pm at Corringham Village Hall £7
+**Monday Ashtanga:** 6.30pm at Corringham Village Hall £7
 
-Beginners Yoga: Tuesday 6pm - 7pm Beckingham Saunby Village Hall £7
+**Tuesday Yoga Wheel Class:**  
+9.30am-10.30am 
+£8 payg at Angela's home studio based in Lea. This is a unique style of yoga using a circular prop which can be used for stretching, core work and back bending, please email yogaovyboyle@gmail.com to book your place, please note spaces are limited so there may be a waiting list. 
 
-Chair Yoga Wednesday: 10am at Marton Village Hall £5.50
+**Tuesday Beginners Yoga:** 6pm - 7pm Beckingham Saunby Village Hall £7
 
-Hatha Wednesday: 6.45pm Hatha at Corringham Village Hall £7
+**Wednesday Chair Yoga:** 10am at Marton Village Hall £5.50
 
-Hatha Friday: 8am online on Zoom, please contact Angela for the Zoom code
+**Wednesday Hatha:** 6.45pm Hatha at Corringham Village Hall £7
 
+**Friday Hatha:** 8am online on Zoom, please contact Angela for the Zoom code
 
 Pricing: 
 Per Class shown above
