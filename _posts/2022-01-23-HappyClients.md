@@ -8,6 +8,7 @@ comments: true
 subtitle: Some Feedback From My Clients
 ---
 January 2022
+
 <img title="January 2022" alt="" src="/assets/img/HappyClientFebruary.jpg">
 
 August 2021
