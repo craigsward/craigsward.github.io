@@ -25,7 +25,7 @@ Yoga Wheel Class -
 
 **Wednesday Chair Yoga:** 10am at Marton Village Hall £5.50
 
-**Wednesday Hatha:** 6.45pm Hatha at Corringham Village Hall £7
+**Wednesday Hatha:** 6.30pm Hatha at Corringham Village Hall £7
 
 **Friday Hatha:** 8am online on Zoom, please contact Angela for the Zoom code
 
