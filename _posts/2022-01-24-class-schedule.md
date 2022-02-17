@@ -31,7 +31,7 @@ Yoga Wheel Class -
 
 Pricing: 
 Per Class shown above
-Class Pass of one class a week over 4 weeks £20 (bundle discount) 
+Class Pass of one class a week over 4 weeks £24 (bundle discount) 
 1:1 online £20 
 1:1 in person £30 
 
