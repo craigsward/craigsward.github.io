@@ -27,7 +27,7 @@ Yoga Wheel Class -
 
 **Friday Hatha:** 8am online on Zoom, please contact Angela for the Zoom code
 
-**Anytime** Contact me about any of my Zoom (video) classes on a pay as you go basis, I usually have three available at any one time and you can watch them where and when you like. Ideal to learn at your own pace.
+**Anytime** Contact me about any of my Zoom (video) classes on a pay as you go basis, I usually have three available at any one time and you can watch them where and when you like. Ideal to learn at your own pace.  There are £5 per recording.
 
 Pricing: 
 Per Class shown above
