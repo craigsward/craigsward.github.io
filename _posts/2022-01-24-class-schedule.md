@@ -21,13 +21,13 @@ Yoga Wheel Class -
 9.30am-10.30am 
 £8 payg at Angela's home studio based in Lea. This is a unique style of yoga using a circular prop which can be used for stretching, core work and back bending, please email yogaovyboyle@gmail.com to book your place, please note spaces are limited so there may be a waiting list. 
 
-**Tuesday Beginners Yoga:** 6pm - 7pm Beckingham Saunby Village Hall £7
-
 **Wednesday Chair Yoga:** 10am at Marton Village Hall £5.50
 
 **Wednesday Hatha:** 6.30pm Hatha at Corringham Village Hall £7
 
 **Friday Hatha:** 8am online on Zoom, please contact Angela for the Zoom code
+
+**Anytime** Contact me about any of my Zoom (video) classes on a pay as you go basis, I usually have three available at any one time and you can watch them where and when you like. Ideal to learn at your own pace.
 
 Pricing: 
 Per Class shown above
