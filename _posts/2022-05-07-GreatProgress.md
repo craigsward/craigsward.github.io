@@ -8,6 +8,6 @@ comments: true
 subtitle: Heather's Chaturanga
 ---
 
-<img title="Introduction" alt="" src="/assets/img/HeatherFeedbackText.png">
+<img title="Heather's Chaturanga" alt="" src="/assets/img/HeatherChaturanga.JPG">
 
-<img title="Heathers Feedback" alt="" src="/assets/img/HeatherWriteUp.JPG">
+<img title="Introduction" alt="" src="/assets/img/HeatherFeedbackText.png">
