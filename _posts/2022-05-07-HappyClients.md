@@ -7,6 +7,9 @@ tags: [yoga, ashtanga, viking, feedback]
 comments: true
 subtitle: Some Feedback From My Clients
 ---
+**April 2022**
+
+<img title="April 2022" alt="" src="/assets/img/HeatherWriteUp.JPG">
 
 **March 2022**
 
@@ -18,12 +21,15 @@ subtitle: Some Feedback From My Clients
 <img title="January 2022" alt="" src="/assets/img/HappyClientFebruary.jpg">
 
 **September 2021**
+
 <img title="HappyClients3" alt="" src="/assets/img/HappyClients3.jpeg">
 
 **September 2021**
+
 <img title="HappyClients2" alt="" src="/assets/img/HappyClients2.jpeg">
 
 **August 2021**
+
 <img title="August 2021" alt="" src="/assets/img/HappyClient.jpg">
 
 
