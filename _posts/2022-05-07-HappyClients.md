@@ -7,6 +7,13 @@ tags: [yoga, ashtanga, viking, feedback]
 comments: true
 subtitle: Some Feedback From My Clients
 ---
+**June 2022**
+
+<img title="June 2022" alt="" src="/assets/img/SomeCanTeach.JPG">
+
+**June Thoughts 2022**
+<img title="June 2022" alt="" src="/assets/img/SomeCanTeachThoughts.JPG">
+
 **April 2022**
 
 <img title="April 2022" alt="" src="/assets/img/HeatherWriteUp.JPG">
