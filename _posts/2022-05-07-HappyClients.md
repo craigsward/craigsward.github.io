@@ -9,10 +9,10 @@ subtitle: Some Feedback From My Clients
 ---
 **June 2022**
 
-<img title="June 2022" alt="" src="/assets/img/SomeCanTeach.JPG">
+<img title="June 2022" alt="" src="/assets/img/SomeCanTeach.jpg">
 
 **June Thoughts 2022**
-<img title="June 2022" alt="" src="/assets/img/SomeCanTeachThoughts.JPG">
+<img title="June 2022" alt="" src="/assets/img/SomeCanTeachThoughts.jpg">
 
 **April 2022**
 
