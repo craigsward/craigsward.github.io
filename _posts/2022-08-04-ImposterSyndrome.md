@@ -5,7 +5,7 @@ title: Imposter Syndrome
 gh-badge: [star, fork, follow]
 tags: [yoga, ashtanga, viking, feedback]
 comments: true
-subtitle: Imposter Syndrome
+subtitle: Some thoughts about a recent class
 ---
 
 <img title="June 2022" alt="" src="/assets/img/SomeCanTeachThoughts.jpg">
