@@ -25,14 +25,9 @@ Yoga Wheel Class -
 
 **Wednesday Hatha:** 6.30pm Hatha at Corringham Village Hall £7
 
-**Friday Hatha:** 8am online on Zoom, please contact Angela for the Zoom code
-
-**Anytime** Contact me about any of my Zoom (video) classes on a pay as you go basis, I usually have three available at any one time and you can watch them where and when you like. Ideal to learn at your own pace.  There are £5 per recording.
-
 Pricing: 
 Per Class shown above
-Class Pass of one class a week over 4 weeks £24 (bundle discount) 
-1:1 online £20 
+Class Pass of one class a week over 4 weeks £24 (bundle discount)  
 1:1 in person £30 
 
 Block Booking: You must pay the block up front and it will be for consecutive classes.  Any classes missed won't be rolled over to the following week unless it is a class cancelled by me, then you may roll it over.
