@@ -7,6 +7,10 @@ tags: [yoga, ashtanga, viking, feedback]
 comments: true
 subtitle: Some Feedback From My Clients
 ---
+**March 2023**
+
+<img title="March 2023" alt="" src="/assets/img/HealingWithAmyHappyClient.jpg">
+
 **June 2022**
 
 <img title="June 2022" alt="" src="/assets/img/SomeCanTeach.jpg">
