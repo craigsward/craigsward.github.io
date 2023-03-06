@@ -39,7 +39,7 @@ Angela's home studio based in Lea - get in touch
 **Pricing:** 
 £8 Per Class drop-in
 Class Pass of one class a week over 4 weeks £28 (bundle discount)  
-Class Pass of one class a week over 4 weeks + Access to extensive on-demand librarby £32 (bundle discount)
+Class Pass of one class a week over 4 weeks + Access to extensive on-demand library £32 (bundle discount)
 On-Demand Library £5 per month
 1:1 in person £30 
 
