@@ -14,9 +14,13 @@ author: Craig Ward
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "2022-08-05-about-me"
+  Class Schedule : "2023-03-05-class-schedule"
+  Happy Clients : "2023-03-05-HappyClients"
+  One To One : "2022-10-20-OneToOne"
   Great Progress: "2022-05-07-GreatProgress"
-  
+  Imposter Syndrome : "2022-08-04-ImposterSyndrome"
+ 
   
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
