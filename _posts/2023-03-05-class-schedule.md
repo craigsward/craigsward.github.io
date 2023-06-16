@@ -32,9 +32,8 @@ At Marton Village Hall with Tea and Coffee after class, there is currently a wai
 6.30pm-7:30pm 
 At Corringham Village Hall
 
-**Thursday Chair Yoga:** 
-8:30am-9:30am 
-Angela's home studio based in Lea - get in touch
+**Thursday:** 
+1:1 Availability, please get in touch.
 
 **Pricing:** 
 £8 Per Class drop-in
