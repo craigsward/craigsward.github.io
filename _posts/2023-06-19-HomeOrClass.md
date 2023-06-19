@@ -5,7 +5,7 @@ title:Home and Class Practice
 gh-badge: [star, fork, follow]
 tags: [yoga, ashtanga, viking]
 comments: true
-subtitle:
+subtitle: Some information on the class options available
 ---
 
 Home Studio Classes 
