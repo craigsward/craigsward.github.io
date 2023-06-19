@@ -1,7 +1,7 @@
 ---
 layout: post
 thumbnail-img: /assets/img/HomeOrClass1.jpg
-title:Home and Class Practice 
+title: Home and Class Practice 
 gh-badge: [star, fork, follow]
 tags: [yoga, ashtanga, viking]
 comments: true
