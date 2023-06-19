@@ -1,11 +1,11 @@
 ---
 layout: post
 thumbnail-img: /assets/img/HomeOrClass1.jpg
-title: 
+title:Home and Class Practice 
 gh-badge: [star, fork, follow]
 tags: [yoga, ashtanga, viking]
 comments: true
-subtitle: Home and Class Practice
+subtitle:
 ---
 
 Home Studio Classes 
