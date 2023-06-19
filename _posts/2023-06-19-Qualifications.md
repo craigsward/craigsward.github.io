@@ -8,7 +8,7 @@ comments: true
 subtitle: Qualifications Gained
 ---
 
-** Qualifications/Workshops **
+**Qualifications/Workshops**
 
 • 200hrs - Haha Yoga Teacher Training BSY (British School of Yoga) 2015   
 • 50hrs - Yoga for Children/Teens at BSY (British School of Yoga) 2019   
@@ -17,7 +17,7 @@ subtitle: Qualifications Gained
 
 <img title="Qualification 2" alt="" src="/assets/img/Qualification2.jpg">
 
-** Weekend Intensive/Training **
+**Weekend Intensive/Training**
 
 • Practical Hatha Yoga training BSY (British School of Yoga) Devon 2015   
 • Practical Ashtanga Yoga training with Kino Macgregor at Triyoga London 2018 and 2019   
