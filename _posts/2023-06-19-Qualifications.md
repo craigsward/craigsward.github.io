@@ -24,4 +24,6 @@ subtitle: Qualifications Gained
 • Practical Hatha Yoga training BSY (British School of Yoga) Devon 2015   
 • Practical Ashtanga Yoga training with Kino Macgregor at Triyoga London 2018 and 2019   
 
+<img title="Kino" alt="" src="/assets/img/Kino.jpg">
+
 <img title="Qualification 3" alt="" src="/assets/img/Qualification3.jpg">
