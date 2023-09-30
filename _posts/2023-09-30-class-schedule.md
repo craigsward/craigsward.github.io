@@ -8,13 +8,18 @@ comments: true
 subtitle: Angela's Class Schedule
 ---
 
+**NEW Saturday Class: Once a Month** 
+Ashtanga-Mysore Class 8:30am - 10:00am 
+At Angela's home studio based in Lea. Please email yogaovyboyle@gmail.com to book your place 
+This Class is £12
+
 **Monday Hatha Yoga:**  
-9.30am-10.30am 
+9.15am-10.15am 
 Angela's home studio based in Lea. This is a unique style of yoga using a circular prop which can be used for stretching, core work and back bending, please email yogaovyboyle@gmail.com to book your place, please note there is currently a waiting list. 
 
-**Monday Chair based Yoga:** 
-11.00-12.00 and 12:30-13:30
-Angela's home studio based in Lea - get in touch, there is currently a waiting list
+**Monday Lea Village Hall Yoga:**  
+11am-12pm 
+Yoga class at Lea Village Hall
 
 **Monday Ashtanga:** 
 6.30pm-7:30pm 
@@ -36,7 +41,9 @@ At Corringham Village Hall
 1:1 Availability, please get in touch.
 
 **Pricing:** 
-£8 Per Class drop-in
+Unless Staded Differently Above...
+
+£8 Per Class drop-in & home studio
 Class Pass of one class a week over 4 weeks £28 (bundle discount)  
 Class Pass of one class a week over 4 weeks + Access to extensive on-demand library £32 (bundle discount)
 On-Demand Library £5 per month
