@@ -15,7 +15,7 @@ subtitle: Qualifications Gained
 • 200hrs - Haha Yoga Teacher Training BSY (British School of Yoga) 2015   
 • 50hrs - Yoga for Children/Teens at BSY (British School of Yoga) 2019   
 • 40hrs - Yoga for Cancer with Vicky Fox affiliated with Yoga Alliance 2023   
-• 40hrs Ashtanga at BSY (British School of Yoga) ongoing    
+• 40hrs Ashtanga at BSY (British School of Yoga) 2023  
 
 <img title="Qualification 2" alt="" src="/assets/img/Qualification2.jpg">
 
