@@ -7,6 +7,9 @@ tags: [yoga, ashtanga, viking]
 comments: true
 subtitle: Qualifications Gained
 ---
+**My Latest Qualification**
+
+<img title="Latest" alt="" src="/assets/img/certificate.png">
 
 **Qualifications/Workshops**
 
