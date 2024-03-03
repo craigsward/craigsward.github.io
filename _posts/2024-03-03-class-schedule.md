@@ -1,44 +1,48 @@
 ---
 layout: post
 thumbnail-img: /assets/img/CalendarImage.jpeg
-title: Class Schedule 2023 Update
+title: Class Schedule 2024 Update
 gh-badge: [star, fork, follow]
 tags: [yoga, ashtanga, viking]
 comments: true
 subtitle: Angela's Class Schedule
 ---
 
-**NEW Saturday Class: Once a Month** 
-Ashtanga-Mysore Class 8:30am - 10:00am 
-At Angela's home studio based in Lea. Please email yogaovyboyle@gmail.com to book your place 
-This Class is £12
+**Monday Gentle Yoga:**  
+11am 
+At Lea Village Hall
 
-**Monday Hatha Yoga:**  
-9.15am-10.15am 
-Angela's home studio based in Lea. This is a unique style of yoga using a circular prop which can be used for stretching, core work and back bending, please email yogaovyboyle@gmail.com to book your place, please note there is currently a waiting list. 
-
-**Monday Lea Village Hall Yoga:**  
-11am-12pm 
-Yoga class at Lea Village Hall
-
-**Monday Ashtanga:** 
-6.30pm-7:30pm 
+**Monday Ashtanga Vinyasa Yoga:** 
+6.30pm 
 At Corringham Village Hall
 
 **Tuesday Hatha Yoga Class:**  
-9.30am-10.30am 
-At Angela's home studio based in Lea. Please email yogaovyboyle@gmail.com to book your place, please note spaces are limited and there is a waiting list. 
+9.15am 
+At Corringham Village Hall - The Old Chapel 
 
 **Wednesday Chair Yoga:** 
-10am-11am 
-At Marton Village Hall with Tea and Coffee after class, there is currently a waiting list
+10am 
+At Marton Village Hall 
 
-**Wednesday Hatha:** 
-6.30pm-7:30pm 
+**Wednesday Hatha Yoga Class:** 
+6.30pm
 At Corringham Village Hall
 
-**Thursday:** 
-1:1 Availability, please get in touch.
+**Thursday Hatha Yoga:** 
+9:30am 
+At West Stockwith Village Hall
+
+**Thursday Chair Yoga:** 
+1pm 
+The Scout hut, Love Lane
+
+**Friday Chair Yoga:** 
+11:15am 
+Corringham Village Hall
+
+**Friday Hatha Yoga:** 
+6pm 
+West Stockwith Village Hall
 
 **Pricing:** 
 Unless Staded Differently Above...
