@@ -9,7 +9,7 @@ subtitle: Angela's Class Schedule
 ---
 
 **Monday Gentle Yoga:**  
-11am 
+9:30am 
 At Lea Village Hall
 
 **Monday Ashtanga Vinyasa Yoga:** 
@@ -45,7 +45,7 @@ Corringham Village Hall
 West Stockwith Village Hall
 
 **Pricing:** 
-Unless Staded Differently Above...
+Unless Stated Differently Above...
 
 £8 Per Class drop-in & home studio
 Class Pass of one class a week over 4 weeks £28 (bundle discount)  
