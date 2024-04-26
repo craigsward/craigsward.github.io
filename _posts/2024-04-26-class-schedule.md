@@ -28,10 +28,6 @@ At Marton Village Hall
 6.30pm
 At Corringham Village Hall
 
-**Thursday Hatha Yoga:** 
-9:30am 
-At West Stockwith Village Hall
-
 **Thursday Chair Yoga:** 
 1pm 
 The Scout hut, Love Lane
@@ -39,10 +35,6 @@ The Scout hut, Love Lane
 **Friday Chair Yoga:** 
 11:15am 
 Corringham Village Hall
-
-**Friday Hatha Yoga:** 
-6pm 
-West Stockwith Village Hall
 
 **Pricing:** 
 Unless Stated Differently Above...
