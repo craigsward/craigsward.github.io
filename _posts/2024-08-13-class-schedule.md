@@ -41,7 +41,6 @@ Unless Stated Differently Above...
 
 £8 Per Class drop-in & home studio
 Class Pass of one class a week over 4 weeks £28 (bundle discount)  
-Class Pass of one class a week over 4 weeks + Access to extensive on-demand library £32 (bundle discount)
 1:1 in person £30 
 
 Block Booking: You must pay the block up front and it will be for consecutive classes.  Any classes missed won't be rolled over to the following week unless it is a class cancelled by me, then you may roll it over.
