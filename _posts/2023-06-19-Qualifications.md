@@ -7,20 +7,13 @@ tags: [yoga, ashtanga, viking]
 comments: true
 subtitle: Qualifications Gained
 ---
-**My Latest Qualification**
-
-<img title="Latest" alt="" src="/assets/img/certificate.png">
 
 **Qualifications/Workshops**
-
-<img title="Qualification 1" alt="" src="/assets/img/Qualification1.jpg">
 
 • 200hrs - Haha Yoga Teacher Training BSY (British School of Yoga) 2015   
 • 50hrs - Yoga for Children/Teens at BSY (British School of Yoga) 2019   
 • 40hrs - Yoga for Cancer with Vicky Fox affiliated with Yoga Alliance 2023   
 • 40hrs Ashtanga at BSY (British School of Yoga) 2023  
-
-<img title="Qualification 2" alt="" src="/assets/img/Qualification2.jpg">
 
 **Weekend Intensive/Training**
 
@@ -29,4 +22,4 @@ subtitle: Qualifications Gained
 
 <img title="Kino" alt="" src="/assets/img/Kino.jpg">
 
-<img title="Qualification 3" alt="" src="/assets/img/Qualification3.jpg">
+
