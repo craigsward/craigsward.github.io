@@ -26,7 +26,7 @@ At Marton Village Hall
 
 **Wednesday Hatha Yoga Class:** 
 6.15pm
-At The Scout Hut, Love
+At The Scout Hut, Love Lane
 
 **Thursday Chair Yoga:** 
 1pm 
