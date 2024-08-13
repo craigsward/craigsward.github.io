@@ -8,7 +8,7 @@ comments: true
 subtitle: Angela's Class Schedule
 ---
 
-**Monday Gentle Yoga:**  
+**Monday Hatha Yoga:**  
 9:30am 
 At Lea Village Hall
 
@@ -16,17 +16,17 @@ At Lea Village Hall
 6.30pm 
 At Corringham Village Hall
 
-**Tuesday Hatha Yoga Class:**  
-9.15am 
-At Corringham Village Hall - The Old Chapel 
+**Tuesday Hatha Yoga Classes:**  
+11:00am
+The Scout Hut, Love Lane
 
 **Wednesday Chair Yoga:** 
 10am 
 At Marton Village Hall 
 
 **Wednesday Hatha Yoga Class:** 
-6.30pm
-At Corringham Village Hall
+6.15pm
+At The Scout Hut, Love
 
 **Thursday Chair Yoga:** 
 1pm 
@@ -42,7 +42,6 @@ Unless Stated Differently Above...
 £8 Per Class drop-in & home studio
 Class Pass of one class a week over 4 weeks £28 (bundle discount)  
 Class Pass of one class a week over 4 weeks + Access to extensive on-demand library £32 (bundle discount)
-On-Demand Library £5 per month
 1:1 in person £30 
 
 Block Booking: You must pay the block up front and it will be for consecutive classes.  Any classes missed won't be rolled over to the following week unless it is a class cancelled by me, then you may roll it over.
