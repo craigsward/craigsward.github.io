@@ -30,7 +30,7 @@ At The Scout Hut, Love Lane
 
 **Thursday Chair Yoga:** 
 1pm 
-The Scout hut, Love Lane
+The Scout Hut, Love Lane
 
 **Friday Chair Yoga:** 
 11:15am 
