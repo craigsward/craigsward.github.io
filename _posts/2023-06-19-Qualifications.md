@@ -1,6 +1,6 @@
 ---
 layout: post
-thumbnail-img: /assets/img/Qualification1.jpg
+thumbnail-img: /assets/img/Kino.jpg
 title: My Qualifications 
 gh-badge: [star, fork, follow]
 tags: [yoga, ashtanga, viking]
