@@ -8,33 +8,7 @@ comments: true
 subtitle: Angela's Class Schedule
 ---
 
-**Monday Hatha Yoga:**  
-9:30am 
-At Lea Village Hall
-
-**Monday Ashtanga Vinyasa Yoga:** 
-6.30pm 
-At Corringham Village Hall
-
-**Tuesday Hatha Yoga Classes:**  
-11:00am
-The Scout Hut, Love Lane
-
-**Wednesday Chair Yoga:** 
-10am 
-At Marton Village Hall 
-
-**Wednesday Hatha Yoga Class:** 
-6.15pm
-At The Scout Hut, Love Lane
-
-**Thursday Chair Yoga:** 
-1pm 
-The Scout Hut, Love Lane
-
-**Friday Chair Yoga:** 
-11:15am 
-Corringham Village Hall
+<img title="December 2024 Timetable" alt="" src="/assets/img/TimetableDecember2024.jpg">
 
 **Pricing:** 
 Unless Stated Differently Above...
