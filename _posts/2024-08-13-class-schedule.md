@@ -8,8 +8,6 @@ comments: true
 subtitle: Angela's Class Schedule
 ---
 
-<img title="December 2024 Timetable" alt="" src="/assets/img/timetableFeb2025.png">
-
 **Pricing:** 
 Unless Stated Differently Above...
 
